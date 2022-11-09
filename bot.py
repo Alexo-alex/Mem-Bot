@@ -2,7 +2,7 @@ import telebot
 import random
 
 # Це наш токен
-TOKEN = '5399482007:AAF53ip2Xw0pWQXRWkbESmGrRqCJYNejJqg'
+TOKEN = 'ваш токен'
 
 bot = telebot.TeleBot(TOKEN)
 
